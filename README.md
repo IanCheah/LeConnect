@@ -19,11 +19,13 @@ LeConnect is a social media application that aims to help connect students from 
    npm install
    ```
 
-4. Launch LeConnect in terminal
+4. Start the project in terminal
 
    ```bash
    npx expo start
    ```
+
+5. Launch LeConnect by pressing `a` to open the Android Emulator(launch Android Studio and boot a device in the Virtual Device Manager first) or `i` to open the iOS Emulator
 
 ## Test through Expo Go App on Mobile Device (Recommended)
 
